@@ -1,0 +1,3 @@
+rootProject.name='slc-sticky'
+include ':app'
+include ':sticky'
